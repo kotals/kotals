@@ -9,4 +9,4 @@ Telegram:
 <br />
 
 ### Стэк технологий который я использовал
-[![Rea](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
+[![Rea](https://shields.io/badge/-R-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
